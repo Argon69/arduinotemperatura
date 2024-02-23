@@ -42,13 +42,6 @@ Para adaptar este proyecto a tus necesidades específicas o configuraciones de h
 4. **Personaliza la Lógica de Control:**
    - Si deseas implementar una lógica de control diferente, como utilizar un control PID o ajustar los tiempos de encendido y apagado del motor en función de la temperatura, modifica la sección del código donde se realiza el control del motor en la función `loop()`.
 
-5. **Mejora la Interfaz de Usuario:**
-   - Si deseas agregar más información en el LCD, como gráficos o mensajes adicionales, modifica el código para mostrar más datos o mejorar la presentación de la información en la pantalla.
-
-6. **Documenta tus Cambios:**
-   - Agrega comentarios adicionales en el código para explicar cualquier modificación que realices, especialmente si realizas cambios significativos o si hay partes del código que pueden ser difíciles de entender para otros usuarios.
-
-Siguiendo estas instrucciones, podrás adaptar el proyecto según tus necesidades específicas o configuraciones de hardware particulares. Recuerda probar cualquier cambio que realices y asegurarte de que el sistema funcione correctamente después de las modificaciones.
 
 ## Contribuciones
 
